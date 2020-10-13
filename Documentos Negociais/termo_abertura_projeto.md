@@ -40,3 +40,18 @@
 |Thiago Nogueira|Gerente das equipes do programa LIFT Learning.|
 |Equipe de Desenvolvimento|Desenvolvedores plenos e juniores deste projeto.|
 |Clientes da Vamos Parcelar|Futuros e atuais clientes que desejam realizar negociação de débitos públicos e/ou privados.
+
+#### 9. Requisitos para aprovação do Projeto
+
+- Conversão do valor final da negociação em um QR Code PIX dinâmico;
+
+- Validação da chave DICT do cliente pagador;
+
+#### 10. Gerente do Projeto
+
+Denis Campos - Gerente e Product Owner na Vamos Parcelar
+
+
+#### 11. Referências
+
+EasyBok. TAP - Termo de Abertura do Projeto - EasyHome, 2016. Downloads. Disponível em: <http://www.easybok.com.br/downloads/easyhome-tap/>. Acesso em: 6 de jul. de 2020.

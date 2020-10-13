@@ -1,6 +1,5 @@
 
-[](https://raw.githubusercontent.com/Vamos-Parcelar-Lift-Learning/Documentos/main/Imagens/cabecalho_relatorios.png)
-
+[![](https://github.com/Vamos-Parcelar-Lift-Learning/Documentos/blob/main/Imagens/cabecalho_relatorios.png)](https://github.com/Vamos-Parcelar-Lift-Learning/Documentos/blob/main/Imagens/cabecalho_relatorios.png)
 
 # Documento de Planejamento de Sprint
 

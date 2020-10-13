@@ -1,0 +1,44 @@
+
+[![](https://github.com/Vamos-Parcelar-Lift-Learning/Documentos/blob/main/Imagens/cabecalho_relatorios.png)](https://github.com/Vamos-Parcelar-Lift-Learning/Documentos/blob/main/Imagens/cabecalho_relatorios.png)
+
+# Documento de Retrospectiva de Sprint
+
+**Data de Realização da Retrospectiva:** 16/10/2020
+
+
+**Duração:** 4 dias
+
+<br/>
+<br/>
+<br/>
+
+BACKLOG DE ATIVIDADES FINALIZADAS NA SPRINT
+-----------------
+|TAREFAS|ENVOLVIDOS|
+|-------|----------|
+|Autenticar Usuário com Permissão de Acesso a API de Mock da Chave DICT | - Romulo Souza - Pedro Rodrigues|
+|Gerar Mock com Dados do DICT| - Matheus Roberto - Thiago Pereira|
+|Criar Método GET para validar Chave do DICT| - Jackson Alves - Fabiana Ribas - Mateus Roriz|
+|Criação e Automação do Ambiente de Desenvolvimento| - Matheus Rodrigues|
+|Documentar Dados Mockados - API DICT| - Kamilla Costa|
+|Levantar Dados Mockados - API Participante Direto| - Kamilla Costa - Lucas Macedo|
+|Migrar Documentação do Drive Para o Github| - Kamilla Costa|
+|Iniciar Documentação do RoadMap| - Kamilla Costa - Lucas Macedo|
+
+<br/>
+<br/>
+<br/>
+
+DÉBITOS TÉCNICOS
+-------------------------
+|TAREFAS|ENVOLVIDOS|MOTIVO|
+|-------|----------|------|
+|Sem débitos técnicos| - | - |
+
+<br/>
+<br/>
+<br/>
+
+## OBSERVAÇÕES
+
+Sem observações 

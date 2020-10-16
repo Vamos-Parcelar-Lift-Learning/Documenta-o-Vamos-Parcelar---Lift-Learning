@@ -23,7 +23,6 @@ BACKLOG DE ATIVIDADES FINALIZADAS NA SPRINT
 |Documentar Dados Mockados - API DICT| - Kamilla Costa|
 |Levantar Dados Mockados - API Participante Direto| - Kamilla Costa - Lucas Macedo|
 |Migrar Documentação do Drive Para o Github| - Kamilla Costa|
-|Iniciar Documentação do RoadMap| - Kamilla Costa - Lucas Macedo|
 
 <br/>
 <br/>
@@ -33,12 +32,13 @@ DÉBITOS TÉCNICOS
 -------------------------
 |TAREFAS|ENVOLVIDOS|MOTIVO|
 |-------|----------|------|
-|Sem débitos técnicos| - | - |
+|Iniciar Documentação do RoadMap| - Kamilla Costa - Lucas Macedo|Necessidades de resolução de algumas pendencias de serviços com a Vamos Parcelar que nos impede de especificar as atividades e o prazo de execução|
+|Criar README do Mock do DICT| - Toda Equipe| Faltou especificar nos critérios de aceitação da issue vinculada ao desenvolvimento do mock|
 
 <br/>
 <br/>
 <br/>
 
-## OBSERVAÇÕES
+## Sugestão de Melhorias
 
-Sem observações 
+- Especificar melhor as issues

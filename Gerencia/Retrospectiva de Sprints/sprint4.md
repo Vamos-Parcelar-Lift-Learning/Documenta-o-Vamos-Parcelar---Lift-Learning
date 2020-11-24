@@ -2,7 +2,7 @@
 
 # Documento de Retrospectiva de Sprint
 
-**Data de Realização da Retrospectiva:** 04/11/2020
+**Data de Realização da Retrospectiva:** 09/11/2020
 
 **Duração:** 3 dias
 

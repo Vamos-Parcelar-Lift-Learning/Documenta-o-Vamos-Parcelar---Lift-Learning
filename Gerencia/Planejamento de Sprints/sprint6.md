@@ -2,9 +2,9 @@
 
 # Documento de Planejamento de Sprint
 
-**Data de Abertura:** 04/11/2020
+**Data de Abertura:** 16/11/2020
 
-**Data de Fechamento:** 09/11/2020
+**Data de Fechamento:** 20/11/2020
 
 **Duração:** 3 dias
 

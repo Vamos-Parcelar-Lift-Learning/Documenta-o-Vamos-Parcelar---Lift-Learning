@@ -38,9 +38,13 @@
 
 **código 200:** quando tudo ocorreu bem e as informações da chave do usuário são retornadas, além disso, no header é retornado informações relacionadas ao RateLimit;
 
+**código 401:** quando o token passado para a validação não é encontrado ou é invalido;
+
 **código 404:** quando a chave passada para consulta não é encontrada;
 
-**código 429:** quando o Rate Limit é atingido.
+**código 500:** quando ocorre um erro interno no servidor;
+
+
 
 <br/>
 <br/>
@@ -50,7 +54,7 @@
 ```
 {
   "Account": {
-        "AccountNumber": "number",
+               "AccountNumber": "number",
                "AccountType": "string",
                "Branch": "number",
                "OpeningDate": "string",

@@ -3,11 +3,12 @@
 <br/>
 
 ### O serviço será responsável por:
-
+- Mockar os dados da necessários para gerar a chave
 - Gerar a chave do DICT 
 - Vincular chave aos dados bancários do usuário PIX - Dados gerados de forma dinâmica
 - Validar chave - DICT
 - Retornar endpoint com o resultado da validação realizada
+- Validar Token de autenticação para a transação
 
 <br/>
 <br/>
@@ -16,8 +17,8 @@
 
 - O serviço será mockado por meio da utilização da biblioteca: *json server* 
 - O acesso se derá apenas por meio de utilização de  chave de autenticação 
-- Todas as consultas devem ser realizadas para o endpoint /entries/{key}
-- A key pode ser email, CPF/CNPJ ou telefone e ter no máximo 77 caracteres 
+- Todas as consultas devem ser realizadas para o endpoint /api/{key}
+- A key pode ser email, CPF/CNPJ, telefone ou EVP e ter no máximo 77 caracteres 
 
 <br/>
 <br/>
@@ -48,32 +49,21 @@
 
 ```
 {
-“type”: “object”,
-“properties”: {
-“Account”: {
-“type”: “object”,
-“properties”: {
-    “AccountNumber”: string
-    “AccountType”: string
-    “Branch”: string
-    “OpeningDate”: string
-    “Participant”: string
-},
-  required: all
-},
-  “key”: string,
-  “keyType”: “string”,
-  “Owner”:{
-    “properties”: {
-      “Name”: string
-      “TaxIdNumber”: number
-      “Type”: string
-      “tradeName”: string
-  },
-required: all
-}
-},
-required: all
+  "Account": {
+        "AccountNumber": "number",
+               "AccountType": "string",
+               "Branch": "number",
+               "OpeningDate": "string",
+               "Participant": "number"
+       },
+       "KeyType": "PHONE",
+       "Key": "number",
+       "Owner": {
+               "Name": "string",
+               "TaxIdNumber": "number",
+               "Type": "string",
+               "tradeName": "string"
+       }
 }
 ```
 

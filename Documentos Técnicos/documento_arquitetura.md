@@ -26,7 +26,7 @@ Os quatro componentes da aplicação são:
 <br/>
 
 <p align="center">
- [![](https://github.com/Vamos-Parcelar-Lift-Learning/Documentos/blob/main/Imagens/arquitetura.png)](https://github.com/Vamos-Parcelar-Lift-Learning/Documentos/blob/main/Imagens/arquitetura.png)
+ <img src="https://github.com/Vamos-Parcelar-Lift-Learning/Documentos/blob/fix/DocumentoArquitetura/Imagens/arquitetura.png">
 </p>
 
 Imagem 1 - Relacionamento entre Serviços e Tecnologias
@@ -106,7 +106,7 @@ As principais tecnologias que serão utilizadas no projeto estão detalhadas aba
 Na imagem 2, é apresentado o fluxograma com o fluxo da experiência do usuário com o sistema e funcionalidades, a fim de possibilitar a realização do serviço de pagamentos de débitos e consequentemente a geração do formato de pagamento aceito pelo PIX. Também é contemplado nesse fluxograma a delimitação do escopo onde entra a solução proposta no projeto.
 
 <p align="center">
- [![](https://github.com/Vamos-Parcelar-Lift-Learning/Documentos/blob/main/Imagens/diagrama_de_caso_de_uso.png)](https://github.com/Vamos-Parcelar-Lift-Learning/Documentos/blob/main/Imagens/diagrama_de_caso_de_uso.png)
+ <img src="https://github.com/Vamos-Parcelar-Lift-Learning/Documentos/blob/fix/DocumentoArquitetura/Imagens/diagrama_de_caso_de_uso.png">
 </p>
 
 Imagem 2 - Fluxo da interação do usuário com o serviços do sistema

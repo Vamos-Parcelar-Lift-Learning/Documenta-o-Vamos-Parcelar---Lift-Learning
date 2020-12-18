@@ -167,7 +167,7 @@ quando a requisição ocorre de forma correta e as informações da Order são r
 
 **order_id:** _string_
 
-ID do pedido na Shipay
+ID do pedido no MOCK-PSP
 
 <br>
 
@@ -179,7 +179,7 @@ QR Code em imagem, codificado em Base64
 
 **qr_code_text:** _string_
 
-QR Code em formato de texto (facilita a impressão do QR Code em impressora térmica)
+QR Code em formato de texto
 
 <br>
 

@@ -73,7 +73,7 @@ As principais tecnologias que serão utilizadas no projeto estão detalhadas aba
 
 - Express.js: é um framework para aplicações web para Node.js. É feito para otimizar a construção de aplicações web e API's;
 
-- JSON-Server: é um pacote npm que você pode usar para criar um webservice REST JSON simulando uma API.
+- MongoDB: é um banco de dados orientado a documentos. A tecnologia será utilizada para persistência de dados na aplicação.
 
 <br/>
 

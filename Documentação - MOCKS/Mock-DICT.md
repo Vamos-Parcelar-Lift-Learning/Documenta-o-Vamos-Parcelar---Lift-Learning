@@ -1,24 +1,26 @@
 ## Documentação do serviço de Mock - DICT
+
 <br/>
 <br/>
 
 ### O serviço será responsável por:
-- Mockar os dados da necessários para gerar a chave
-- Gerar a chave do DICT 
-- Vincular chave aos dados bancários do usuário PIX - Dados gerados de forma dinâmica
-- Validar chave - DICT
-- Retornar endpoint com o resultado da validação realizada
-- Validar Token de autenticação para a transação
+
+- Mockar os dados da necessários para gerar a chave;
+- Gerar a chave do DICT;
+- Vincular chave aos dados bancários do usuário PIX - Dados gerados de forma dinâmica;
+- Validar chave - DICT;
+- Retornar endpoint com o resultado da validação realizada;
+- Validar Token de autenticação para a transação.
 
 <br/>
 <br/>
 
 ### OBSERVAÇÕES DO SERVIÇO:
 
-- O serviço será mockado por meio da utilização da biblioteca: *json server* 
-- O acesso se derá apenas por meio de utilização de  chave de autenticação 
-- Todas as consultas devem ser realizadas para o endpoint /api/{key}
-- A key pode ser email, CPF/CNPJ, telefone ou EVP e ter no máximo 77 caracteres 
+- O serviço será mockado por meio da utilização da biblioteca: _json server_;
+- O acesso se derá apenas por meio de utilização de chave de autenticação;
+- Todas as consultas devem ser realizadas para o endpoint /api/{key};
+- A key pode ser email, CPF/CNPJ, telefone ou EVP e ter no máximo 77 caracteres.
 
 <br/>
 <br/>
@@ -43,8 +45,6 @@
 **código 404:** quando a chave passada para consulta não é encontrada;
 
 **código 500:** quando ocorre um erro interno no servidor;
-
-
 
 <br/>
 <br/>

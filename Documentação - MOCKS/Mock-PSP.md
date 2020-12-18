@@ -24,8 +24,11 @@
 
 ### Parâmetros do Header:
 
-| **authorization:** _string_ | uma key que deve ser passada no header e utilizada para autorizar a requisição feita. | _required_ |
-| --------------------------- | ------------------------------------------------------------------------------------- | ---------- |
+**authorization:** _string_
+
+_required_
+
+uma key que deve ser passada no header e utilizada para autorizar a requisição feita.
 
 <br/>
 <br/>
@@ -42,14 +45,33 @@ POST: /order
 
 #### SCHEMA - Corpo da Requisição:
 
-| **buyer:** object        | Informações do comprador.       |
-| ------------------------ | ------------------------------- |
-| **cpf:** _string_        | CPF do comprador                |
-| **email:** _string_      | Endereço de e-mail do comprador |
-| **first_name:** _string_ | Primeiro nome do comprador      |
-| **last_name:** _string_  | Último nome do comprador        |
-| **phone:** _string_      | Número de telefone do comprador |
+**buyer:** object
 
+Informações do comprador.
+
+{
+
+**cpf:** _string_
+
+CPF do comprador  
+ |
+**email:** _string_
+
+Endereço de e-mail do comprador
+
+**first_name:** _string_
+
+Primeiro nome do comprador
+
+**last_name:** _string_
+
+Último nome do comprador
+
+**phone:** _string_
+
+Número de telefone do comprador
+
+}
 <br>
 
 **callback_url:** _string_
@@ -58,14 +80,27 @@ url com notificação informando que houve uma alteração no status do pedido.
 
 <br>
 
-| **items:** _Array of objects (Item)_         | Lista de itens do pedido. É obrigatório enviar ao menos um item. | _required_ |
-| -------------------------------------------- | ---------------------------------------------------------------- | ---------- | --- |
-| Array() [                                    |                                                                  |            |
-| **item_title:** _string_ `<= 100 characters` | Nome do item                                                     |            |
-| **quantity:** _number_                       | Quantidade do item                                               |            |
-| **unit_price** _number_                      | Valor unitário do item                                           |            |
-| ]                                            |                                                                  |            |
-|                                              |                                                                  |            |     |
+| **items:** _Array of objects (Item)_
+
+_required_
+
+Lista de itens do pedido. É obrigatório enviar ao menos um item.
+
+Array() [
+
+**item_title:** _string_ `<= 100 characters`
+
+Nome do item
+
+**quantity:** _number_
+
+Quantidade do item
+
+**unit_price** _number_
+
+Valor unitário do item
+
+]
 
 <br>
 

@@ -147,7 +147,7 @@ Nome da carteira digital
   ],
   "order_ref": "pedido-qualquer-123",
   "total": 7.98,
-  "wallet": "mercadopago"
+  "wallet": "pix"
 }
 ```
 

@@ -54,7 +54,7 @@ Informações do comprador.
 **cpf:** _string_
 
 CPF do comprador  
- |
+
 **email:** _string_
 
 Endereço de e-mail do comprador
@@ -80,7 +80,7 @@ url com notificação informando que houve uma alteração no status do pedido.
 
 <br>
 
-| **items:** _Array of objects (Item)_
+**items:** _Array of objects (Item)_
 
 _required_
 

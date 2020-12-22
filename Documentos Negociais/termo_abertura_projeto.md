@@ -28,7 +28,7 @@
 
 #### 7. Restrições iniciais
 - A aplicação deve ser desenvolvida até dezembro de 2020;
-- A aplicação deve ser executada em dispositivos mobile (Android e iOS);
+- A aplicação deve ser executada via plataforma web
 - A aplicação deve ser intuitiva para o usuário.
 
 #### 8. Lista das Partes Interessadas

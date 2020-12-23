@@ -90,7 +90,7 @@ Com o surgimento do PIX, a VP poderá adicioná-lo em suas opções de pagamento
 
 #### 4.1 Perspectiva do produto
 
-O objetivo do produto é desenvolver um MVP no qual o cliente possa pagar suas diferentes contas de uma única vez através de um QR code dinâmico do PIX.
+O objetivo do produto é que um MVP com a identidade visual da Vamos Parcelar seja desenvolvido, no qual o cliente possa pagar suas diferentes contas de uma única vez através de um QR code dinâmico do PIX.
 
 Principal funcionalidade levantada:
 
